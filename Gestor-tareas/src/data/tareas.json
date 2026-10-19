@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "titulo": "Diseñar base de datos",
+    "descripcion": "Definir los modelos de tareas e integrantes",
+    "responsableId": 1,
+    "estado": "hecha",
+    "fechaLimite": "2026-10-25"
+  },
+  {
+    "id": 2,
+    "titulo": "Crear rutas de Express",
+    "descripcion": "Construir los endpoints GET, POST, PUT y DELETE",
+    "responsableId": 2,
+    "estado": "en progreso",
+    "fechaLimite": "2026-10-30"
+  }
+]
