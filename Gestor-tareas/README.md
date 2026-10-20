@@ -11,6 +11,8 @@
 * **Estudiante 1:** [manuel 1]
 * **Estudiante 2:** [changwi 2]
 * **Estudiante 3:** [porre 3]
+* * **Estudiante 4:** [Tuli 4]
+* **Estudiante 5:** [Campuzano 6]
 
 ---
 
